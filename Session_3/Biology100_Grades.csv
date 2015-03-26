@@ -1,0 +1,499 @@
+Student ID,Average,Status
+00167,81.78,Pass
+00205,77.46,Pass
+00244,87.87,Pass
+00283,76.51,Pass
+00340,73.7,Pass
+00502,60.21,Provisional Pass
+00562,78.67,Pass
+00614,71.38,Pass
+00766,75.13,Pass
+00788,75.83,Pass
+01014,84.0,Pass
+01304,70.23,Pass
+01640,78.91,Pass
+01882,73.32,Pass
+02043,77.99,Pass
+02610,86.08,Pass
+02757,75.09,Pass
+02846,79.64,Pass
+03036,68.64,Provisional Pass
+03114,76.54,Pass
+03474,75.78,Pass
+03521,69.03,Provisional Pass
+03627,76.7,Pass
+03852,76.26,Pass
+04255,58.04,Fail
+04262,75.26,Pass
+04327,83.63,Pass
+04335,61.03,Provisional Pass
+04555,78.85,Pass
+04605,61.04,Provisional Pass
+04612,63.23,Provisional Pass
+04724,62.43,Provisional Pass
+04740,79.56,Pass
+04748,64.64,Provisional Pass
+05131,63.79,Provisional Pass
+05166,78.3,Pass
+05170,67.94,Provisional Pass
+05322,87.13,Pass
+05442,69.73,Provisional Pass
+05555,88.16,Pass
+05877,70.21,Pass
+06002,97.31,Pass
+06017,82.89,Pass
+06383,56.47,Fail
+06531,68.54,Provisional Pass
+06543,70.79,Pass
+06551,65.56,Provisional Pass
+06553,87.6,Pass
+06576,75.3,Pass
+07302,78.95,Pass
+07310,67.01,Provisional Pass
+07314,70.86,Pass
+07438,74.15,Pass
+07530,83.44,Pass
+07552,76.1,Pass
+07738,71.44,Pass
+08330,67.29,Provisional Pass
+08818,95.17,Pass
+08844,66.64,Provisional Pass
+08845,73.97,Pass
+08867,76.32,Pass
+10087,74.22,Pass
+10522,62.67,Provisional Pass
+10645,79.79,Pass
+11117,86.5,Pass
+11167,54.0,Fail
+11404,85.28,Pass
+11433,69.14,Provisional Pass
+11680,91.26,Pass
+11830,62.56,Provisional Pass
+12373,59.88,Fail
+12843,91.02,Pass
+12876,75.71,Pass
+13011,75.24,Pass
+13200,55.79,Fail
+14304,73.86,Pass
+14588,83.02,Pass
+14643,61.3,Provisional Pass
+15082,82.45,Pass
+15186,80.39,Pass
+15203,73.12,Pass
+15326,66.09,Provisional Pass
+15341,73.16,Pass
+15450,74.94,Pass
+15563,78.29,Pass
+16145,89.16,Pass
+16201,91.67,Pass
+16223,73.47,Pass
+16506,81.4,Pass
+16654,76.22,Pass
+16671,81.23,Pass
+16725,89.95,Pass
+17183,79.31,Pass
+17684,76.86,Pass
+17706,75.94,Pass
+17772,69.3,Provisional Pass
+18052,85.72,Pass
+18234,73.87,Pass
+18448,82.51,Pass
+18500,74.7,Pass
+18858,70.92,Pass
+18868,70.87,Pass
+20415,78.7,Pass
+20444,82.09,Pass
+20663,71.99,Pass
+21167,70.62,Pass
+21354,83.16,Pass
+21411,59.89,Fail
+21423,98.41,Pass
+21460,71.86,Pass
+21613,76.17,Pass
+22023,59.83,Fail
+22145,98.33,Pass
+22175,91.5,Pass
+23123,64.8,Provisional Pass
+23180,74.9,Pass
+23231,81.43,Pass
+23254,78.01,Pass
+23811,86.47,Pass
+24072,80.81,Pass
+24240,65.88,Provisional Pass
+24256,62.76,Provisional Pass
+24444,75.49,Pass
+24780,75.48,Pass
+24875,63.62,Provisional Pass
+25045,80.54,Pass
+25127,81.09,Pass
+25228,69.31,Provisional Pass
+25327,88.28,Pass
+25364,85.24,Pass
+25367,69.83,Provisional Pass
+25653,67.56,Provisional Pass
+25676,71.87,Pass
+26001,55.41,Fail
+26134,77.04,Pass
+26264,78.07,Pass
+26424,80.6,Pass
+26487,76.83,Pass
+27105,89.2,Pass
+27107,66.12,Provisional Pass
+27144,77.86,Pass
+27185,77.11,Pass
+27513,90.26,Pass
+27605,77.52,Pass
+27640,96.11,Pass
+28041,85.94,Pass
+28316,73.2,Pass
+28372,70.71,Pass
+28526,74.84,Pass
+28610,68.23,Provisional Pass
+28737,76.0,Pass
+30015,76.19,Pass
+30123,96.4,Pass
+30165,85.68,Pass
+30216,59.31,Fail
+30732,78.27,Pass
+30878,87.97,Pass
+31035,74.63,Pass
+32040,59.89,Fail
+32465,95.99,Pass
+32502,76.93,Pass
+32786,77.41,Pass
+33013,73.72,Pass
+33781,72.08,Pass
+33834,64.34,Provisional Pass
+33854,80.11,Pass
+34230,68.53,Provisional Pass
+34274,75.17,Pass
+34528,59.18,Fail
+34577,77.68,Pass
+34825,73.24,Pass
+35261,83.95,Pass
+35420,60.01,Provisional Pass
+35655,67.66,Provisional Pass
+35781,65.51,Provisional Pass
+36103,70.82,Pass
+36176,77.02,Pass
+36385,76.26,Pass
+36555,83.57,Pass
+37041,90.72,Pass
+37120,67.87,Provisional Pass
+37170,55.27,Fail
+37225,79.37,Pass
+37314,64.77,Provisional Pass
+37405,74.74,Pass
+37481,63.0,Provisional Pass
+37508,80.97,Pass
+37555,55.25,Fail
+37565,64.61,Provisional Pass
+38318,95.71,Pass
+38807,67.93,Provisional Pass
+40388,87.97,Pass
+40432,63.65,Provisional Pass
+40500,82.03,Pass
+40504,77.76,Pass
+40657,97.59,Pass
+40704,81.0,Pass
+41027,65.59,Provisional Pass
+41034,77.75,Pass
+41251,72.16,Pass
+41271,61.84,Provisional Pass
+41306,87.01,Pass
+41452,86.92,Pass
+41715,88.96,Pass
+41757,76.36,Pass
+42011,61.71,Provisional Pass
+42083,76.76,Pass
+42145,84.32,Pass
+42216,83.0,Pass
+42413,82.24,Pass
+42553,76.03,Pass
+42782,77.51,Pass
+43042,74.78,Pass
+43084,60.43,Provisional Pass
+43212,75.23,Pass
+43332,89.78,Pass
+43386,65.45,Provisional Pass
+43546,70.4,Pass
+43638,87.98,Pass
+43655,67.93,Provisional Pass
+43705,75.28,Pass
+43753,72.46,Pass
+43842,68.45,Provisional Pass
+44077,77.01,Pass
+44241,82.22,Pass
+44383,92.07,Pass
+44455,55.5,Fail
+44517,66.7,Provisional Pass
+44556,88.94,Pass
+44625,66.27,Provisional Pass
+45102,79.92,Pass
+45351,80.27,Pass
+45635,66.4,Provisional Pass
+45825,66.45,Provisional Pass
+46251,79.64,Pass
+46378,72.41,Pass
+46775,76.39,Pass
+46856,62.81,Provisional Pass
+46868,84.47,Pass
+47387,62.78,Provisional Pass
+47530,74.75,Pass
+47565,76.19,Pass
+47582,57.44,Fail
+47608,72.26,Pass
+47718,52.97,Fail
+48008,65.74,Provisional Pass
+48122,64.44,Provisional Pass
+48248,78.88,Pass
+48361,51.33,Fail
+48465,63.1,Provisional Pass
+48475,80.38,Pass
+48534,79.21,Pass
+48730,65.02,Provisional Pass
+48853,70.33,Pass
+50115,81.1,Pass
+50388,80.64,Pass
+50430,76.45,Pass
+50473,86.64,Pass
+50476,72.88,Pass
+50483,98.12,Pass
+50723,75.56,Pass
+51027,88.36,Pass
+51275,73.4,Pass
+51344,70.95,Pass
+51762,87.32,Pass
+51807,89.44,Pass
+51878,93.2,Pass
+52034,77.28,Pass
+52383,73.24,Pass
+52386,40.16,Fail
+52525,82.91,Pass
+52605,88.61,Pass
+53354,71.63,Pass
+53608,88.9,Pass
+53826,67.96,Provisional Pass
+54021,74.52,Pass
+54136,72.8,Pass
+54140,88.22,Pass
+54654,68.88,Provisional Pass
+54738,75.74,Pass
+55176,73.65,Pass
+55427,83.44,Pass
+55510,64.57,Provisional Pass
+55634,73.57,Pass
+55682,79.71,Pass
+55735,73.78,Pass
+55781,88.27,Pass
+55857,77.24,Pass
+56010,79.2,Pass
+56036,72.46,Pass
+56075,67.14,Provisional Pass
+56301,53.17,Fail
+56303,67.96,Provisional Pass
+56413,52.12,Fail
+56436,76.94,Pass
+56606,85.17,Pass
+56628,63.01,Provisional Pass
+56683,79.64,Pass
+56761,89.91,Pass
+56771,81.88,Pass
+56783,62.36,Provisional Pass
+57078,75.17,Pass
+57300,74.86,Pass
+57315,61.67,Provisional Pass
+57383,84.19,Pass
+57513,70.74,Pass
+57542,77.43,Pass
+57612,64.75,Provisional Pass
+57721,79.07,Pass
+58042,80.01,Pass
+58047,72.98,Pass
+58271,90.18,Pass
+58556,77.37,Pass
+58710,66.83,Provisional Pass
+58815,69.4,Provisional Pass
+58816,86.79,Pass
+60166,78.35,Pass
+60186,57.09,Fail
+60311,81.4,Pass
+60514,64.02,Provisional Pass
+60846,66.58,Provisional Pass
+60865,91.57,Pass
+61003,78.75,Pass
+61446,69.48,Provisional Pass
+61458,68.25,Provisional Pass
+61800,87.42,Pass
+62322,71.73,Pass
+62381,83.78,Pass
+62462,57.64,Fail
+62543,80.95,Pass
+62577,68.76,Provisional Pass
+62621,80.73,Pass
+62638,71.35,Pass
+62863,74.22,Pass
+62880,86.42,Pass
+63112,89.25,Pass
+63544,71.49,Pass
+63657,66.79,Provisional Pass
+64227,66.16,Provisional Pass
+64308,66.68,Provisional Pass
+64347,74.11,Pass
+64358,82.58,Pass
+64478,76.75,Pass
+64525,65.75,Provisional Pass
+64767,85.14,Pass
+64853,72.84,Pass
+65053,72.18,Pass
+65460,84.63,Pass
+65502,79.78,Pass
+65566,75.59,Pass
+65633,87.52,Pass
+65634,86.17,Pass
+65802,68.7,Provisional Pass
+66048,78.16,Pass
+66375,71.61,Pass
+66455,70.22,Pass
+66552,82.87,Pass
+67018,74.22,Pass
+67106,72.5,Pass
+67135,62.09,Provisional Pass
+67322,83.14,Pass
+67561,57.16,Fail
+68513,67.64,Provisional Pass
+68842,68.45,Provisional Pass
+70022,70.86,Pass
+70046,88.1,Pass
+70131,61.7,Provisional Pass
+70257,80.86,Pass
+70357,76.94,Pass
+70375,74.42,Pass
+70513,67.72,Provisional Pass
+70678,80.45,Pass
+70682,64.12,Provisional Pass
+70858,57.37,Fail
+71070,74.55,Pass
+71200,83.75,Pass
+71221,85.93,Pass
+71264,79.14,Pass
+71285,81.36,Pass
+71373,69.44,Provisional Pass
+71542,67.35,Provisional Pass
+71584,77.52,Pass
+71683,74.43,Pass
+71741,84.53,Pass
+71827,75.53,Pass
+71876,76.4,Pass
+72163,77.89,Pass
+72183,84.7,Pass
+72203,76.65,Pass
+72205,84.86,Pass
+72288,82.24,Pass
+72355,83.24,Pass
+72525,99.33,Pass
+72722,69.86,Provisional Pass
+72813,65.99,Provisional Pass
+73108,73.68,Pass
+73252,87.22,Pass
+73275,59.62,Fail
+73310,79.56,Pass
+73341,94.65,Pass
+73462,75.83,Pass
+73484,78.84,Pass
+74001,74.92,Pass
+74120,70.2,Pass
+74211,70.65,Pass
+74503,74.45,Pass
+74643,70.09,Pass
+74773,79.38,Pass
+75022,75.05,Pass
+75288,89.33,Pass
+75350,80.57,Pass
+75370,94.62,Pass
+75820,71.47,Pass
+76135,77.36,Pass
+76211,89.36,Pass
+76231,81.42,Pass
+76415,89.36,Pass
+76557,71.53,Pass
+76623,88.88,Pass
+76654,69.93,Provisional Pass
+76780,71.06,Pass
+76824,64.32,Provisional Pass
+76857,92.34,Pass
+77010,60.46,Provisional Pass
+77280,81.37,Pass
+77288,66.53,Provisional Pass
+77387,62.3,Provisional Pass
+77466,61.15,Provisional Pass
+77471,58.63,Fail
+77474,90.39,Pass
+77541,75.14,Pass
+77621,74.54,Pass
+78072,76.24,Pass
+78357,71.71,Pass
+78434,56.58,Fail
+78620,66.4,Provisional Pass
+80077,69.03,Provisional Pass
+80108,81.87,Pass
+80355,89.0,Pass
+80366,75.73,Pass
+80713,80.67,Pass
+80731,81.17,Pass
+80855,64.11,Provisional Pass
+80881,60.53,Provisional Pass
+81178,55.75,Fail
+81185,78.9,Pass
+81472,59.49,Fail
+81487,84.14,Pass
+81553,46.9,Fail
+81647,72.59,Pass
+81666,78.52,Pass
+81722,67.97,Provisional Pass
+82334,80.07,Pass
+82366,87.02,Pass
+82612,84.0,Pass
+82620,78.05,Pass
+82831,74.54,Pass
+82857,73.09,Pass
+82887,65.72,Provisional Pass
+83056,73.69,Pass
+83253,79.88,Pass
+83418,86.11,Pass
+83520,61.61,Provisional Pass
+83666,82.99,Pass
+83677,73.68,Pass
+83808,76.22,Pass
+84105,72.12,Pass
+84210,87.77,Pass
+84252,91.91,Pass
+84788,70.91,Pass
+84865,74.23,Pass
+84880,47.83,Fail
+85781,75.28,Pass
+86011,80.81,Pass
+86071,90.41,Pass
+86110,86.55,Pass
+86121,72.27,Pass
+86228,68.5,Provisional Pass
+86277,76.01,Pass
+86353,83.6,Pass
+86423,67.32,Provisional Pass
+86572,69.16,Provisional Pass
+86613,82.76,Pass
+86740,93.28,Pass
+86827,64.34,Provisional Pass
+86852,73.54,Pass
+87127,85.56,Pass
+87275,83.75,Pass
+87466,73.4,Pass
+87580,74.92,Pass
+87624,67.6,Provisional Pass
+87648,82.75,Pass
+88143,80.69,Pass
+88216,71.49,Pass
+88442,84.76,Pass
+88488,71.85,Pass
+88740,74.65,Pass
+88832,74.22,Pass

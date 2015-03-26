@@ -1,0 +1,14 @@
+Name	Age	Gender
+Joey	6	Male
+Jessica	5	Female
+Tracy	6	Female
+Tyler	7	Male
+Deena	4	Female
+Eric	6	Male
+Robert	5	Male
+Angela	6	Female
+Andrew	7	Male
+Jackson	5	Male
+Kelsey	4	Female
+Hannah	6	Female
+Weston	8	Male

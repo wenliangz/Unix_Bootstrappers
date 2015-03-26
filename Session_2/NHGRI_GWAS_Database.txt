@@ -1,0 +1,656 @@
+Chr_id	Chr_pos	SNPs	p-Value	Disease/Trait
+chr5	150860514	rs1000113	3E-7	Crohn's disease
+chr11	2148913	rs1004446	4E-9	Type 1 diabetes
+chr5	159387525	rs10045431	4E-13	Crohn's disease
+chr5	159387525	rs10045431	7E-8	Crohn's disease
+chr5	56143024	rs10065637	4E-12	Crohn's disease
+chr9	35269822	rs10121009	3E-6	Parkinson's disease
+chr14	23370824	rs10137082	6E-6	Type 1 diabetes
+chr2	60997124	rs10181042	7E-9	Crohn's disease
+chr2	233250193	rs10210302	5E-14	Crohn's disease
+chr11	61790331	rs102275	2E-11	Crohn's disease
+chr7	127606849	rs10229583	2E-10	Type 2 diabetes
+chr6	20687890	rs10440833	2E-22	Type 2 diabetes
+chr18	2948031	rs10460009	9E-6	Type 2 diabetes
+chr5	56808481	rs10461617	4E-6	Type 2 diabetes
+chr5	180367208	rs10464059	3E-6	Parkinson's disease
+chr7	26852821	rs10486483	3E-8	Crohn's disease
+chr6	70579486	rs1048886	3E-8	Type 2 diabetes
+chr2	43579779	rs10495903	2E-14	Crohn's disease
+chr11	84706803	rs10501570	7E-6	Parkinson's disease
+chr10	88263276	rs10509540	1E-28	Type 1 diabetes
+chr3	183042285	rs10513789	3E-10	Parkinson's disease
+chr4	26083889	rs10517086	5E-10	Type 1 diabetes
+chr15	61708933	rs10519131	1E-6	Parkinson's disease
+chr10	131373856	rs10734105	3E-8	Crohn's disease
+chr10	131149699	rs10741243	5E-6	Type 2 diabetes
+chr9	4292083	rs10758593	3E-6	Type 1 diabetes
+chr9	4981602	rs10758669	1E-13	Crohn's disease
+chr9	4981602	rs10758669	3E-9	Crohn's disease
+chr10	62685804	rs10761659	2E-6	Crohn's disease
+chr10	62685804	rs10761659	4E-22	Crohn's disease
+chr10	62685804	rs10761659	5E-6	Crohn's disease
+chr10	98540425	rs10786436	8E-7	Type 1 diabetes
+chr1	191590226	rs10801047	3E-8	Crohn's disease
+chr9	22134095	rs10811661	1E-18	Type 2 diabetes
+chr9	22134095	rs10811661	5E-6	Type 2 diabetes
+chr9	22134095	rs10811661	5E-8	Type 2 diabetes
+chr9	22134095	rs10811661	7E-7	Type 2 diabetes
+chr9	22134095	rs10811661	8E-15	Type 2 diabetes
+chr9	4293150	rs10814916	6E-12	Type 2 diabetes
+chr2	62324337	rs10865331	1E-9	Crohn's disease
+chr12	39959194	rs10877840	1E-6	Parkinson's disease
+chr10	99528007	rs10883365	4E-10	Crohn's disease
+chr10	99528007	rs10883365	6E-8	Crohn's disease
+chr10	119389891	rs10886471	7E-9	Type 2 diabetes
+chr10	12272998	rs10906115	1E-8	Type 2 diabetes
+chr1	119975336	rs10923931	4E-8	Type 2 diabetes
+chr6	20660803	rs10946398	1E-8	Type 2 diabetes
+chr6	20660803	rs10946398	7E-7	Type 2 diabetes
+chr6	32405455	rs10947261	3E-12	Crohn's disease
+chr9	22133285	rs10965250	1E-10	Type 2 diabetes
+chr9	90870958	rs10993738	5E-6	Type 2 diabetes
+chr10	62678726	rs10995271	4E-20	Crohn's disease
+chr17	45436075	rs11012	6E-8	Parkinson's disease
+chr11	22092547	rs11026412	3E-6	Parkinson's disease
+chr12	9703362	rs11052552	7E-7	Type 1 diabetes
+chr10	92703125	rs1111875	2E-8	Type 2 diabetes
+chr10	92703125	rs1111875	3E-6	Type 2 diabetes
+chr10	92703125	rs1111875	6E-10	Type 2 diabetes
+chr10	92703125	rs1111875	6E-10	Type 2 diabetes
+chr10	92703125	rs1111875	7E-12	Type 2 diabetes
+chr1	91728765	rs11165354	4E-6	Type 2 diabetes
+chr5	142099500	rs11167764	2E-9	Crohn's disease
+chr12	56076841	rs11171739	1E-11	Type 1 diabetes
+chr12	40208138	rs11175593	3E-10	Crohn's disease
+chr10	99531836	rs11190140	3E-16	Crohn's disease
+chr10	99532633	rs11190141	5E-7	Crohn's disease
+chr10	110426390	rs11195128	2E-10	Crohn's disease
+chr21	42416077	rs11203203	2E-9	Type 1 diabetes
+chr1	67240275	rs11209026	1E-18	Crohn's disease
+chr1	67240275	rs11209026	1E-64	Crohn's disease
+chr1	67240275	rs11209026	2E-18	Crohn's disease
+chr1	67240275	rs11209026	4E-14	Crohn's disease
+chr1	67240275	rs11209026	4E-21	Crohn's disease
+chr11	57435536	rs11229030	8E-9	Crohn's disease
+chr11	73152652	rs11235667	7E-9	Crohn's disease
+chr4	864544	rs11248051	3E-9	Parkinson's disease
+chr4	970571	rs11248060	2E-6	Parkinson's disease
+chr4	970571	rs11248060	3E-12	Parkinson's disease
+chr4	970571	rs11248060	3E-9	Parkinson's disease
+chr10	12265895	rs11257655	7E-9	Type 2 diabetes
+chr10	6430929	rs11258747	1E-7	Type 1 diabetes
+chr1	67236843	rs11465804	1E-6	Crohn's disease
+chr1	67236843	rs11465804	7E-63	Crohn's disease
+chr12	54705212	rs1153188	2E-7	Type 2 diabetes
+chr12	40398498	rs11564258	6E-21	Crohn's disease
+chr16	67937477	rs11574514	2E-7	Crohn's disease
+chr1	200966738	rs11584383	1E-11	Crohn's disease
+chr15	80139880	rs11634397	2E-9	Type 2 diabetes
+chr16	53811575	rs11642841	3E-8	Type 2 diabetes
+chr2	3793830	rs11677370	3E-6	Type 2 diabetes
+chr3	123346931	rs11708067	6E-8	Type 2 diabetes
+chr3	183103487	rs11711441	8E-12	Parkinson's disease
+chr4	15735478	rs11724635	1E-16	Parkinson's disease
+chr5	40410482	rs11742570	1E-6	Crohn's disease
+chr5	40410482	rs11742570	7E-36	Crohn's disease
+chr5	150879305	rs11747270	3E-16	Crohn's disease
+chr6	90248512	rs11755527	5E-12	Type 1 diabetes
+chr6	90248512	rs11755527	5E-8	Type 1 diabetes
+chr9	136357696	rs11787792	2E-10	Type 2 diabetes
+chr1	67209833	rs11805303	6E-12	Crohn's disease
+chr16	31083850	rs11865038	4E-7	Parkinson's disease
+chr17	17811787	rs11868035	6E-8	Parkinson's disease
+chr17	42418754	rs11871801	3E-8	Crohn's disease
+chr2	5523876	rs11894081	4E-9	Crohn's disease
+chr4	89718364	rs11931074	7E-17	Parkinson's disease
+chr23	153597180	rs12010175	2E-9	Type 2 diabetes
+chr1	233204408	rs12027542	4E-7	Type 2 diabetes
+chr1	172929237	rs12035082	2E-7	Crohn's disease
+chr1	18813023	rs12063142	5E-7	Parkinson's disease
+chr17	45846317	rs12185268	3E-14	Parkinson's disease
+chr6	396321	rs12203592	1E-28	Hair color
+chr6	396321	rs12203592	2E-28	Hair color
+chr6	396321	rs12203592	4E-7	Hair color
+chr20	13316265	rs1223271	5E-6	Parkinson's disease
+chr10	35246767	rs12242110	1E-9	Crohn's disease
+chr10	6081532	rs12251307	1E-13	Type 1 diabetes
+chr10	6081532	rs12251307	2E-6	Type 1 diabetes
+chr12	50963759	rs12304921	7E-6	Type 2 diabetes
+chr14	53824112	rs12431733	3E-6	Parkinson's disease
+chr16	20331250	rs12444268	2E-7	Type 1 diabetes
+chr18	43093415	rs12456492	2E-10	Parkinson's disease
+chr10	79300560	rs1250550	1E-30	Crohn's disease
+chr5	132448701	rs12521868	1E-20	Crohn's disease
+chr12	111270654	rs1265564	1E-16	Type 1 diabetes
+chr6	21430497	rs12663356	4E-12	Crohn's disease
+chr8	73095112	rs12677663	2E-8	Crohn's disease
+chr8	118965098	rs12679857	4E-7	Type 1 diabetes
+chr16	11086016	rs12708716	2E-16	Type 1 diabetes
+chr16	11086016	rs12708716	3E-18	Type 1 diabetes
+chr16	11086016	rs12708716	5E-7	Type 1 diabetes
+chr16	11086016	rs12708716	7E-13	Type 1 diabetes
+chr19	10359299	rs12720356	1E-12	Crohn's disease
+chr10	6060049	rs12722489	3E-9	Crohn's disease
+chr1	155135691	rs12726330	5E-8	Parkinson's disease
+chr10	12286011	rs12779790	1E-10	Type 2 diabetes
+chr12	122811747	rs12817488	3E-13	Parkinson's disease
+chr12	88934558	rs12821256	7E-19	Hair color
+chr14	92307319	rs12896399	2E-36	Hair color
+chr14	92307319	rs12896399	5E-13	Hair color
+chr15	28120472	rs12913832	1E-167	Hair color
+chr15	28120472	rs12913832	9E-88	Hair color
+chr16	89752324	rs12931267	3E-10	Hair color
+chr16	89752324	rs12931267	5E-87	Hair color
+chr8	11841238	rs1296028	1E-6	Parkinson's disease
+chr2	233264857	rs12994997	4E-70	Crohn's disease
+chr2	60959694	rs13003464	5E-9	Crohn's disease
+chr3	18665366	rs13073817	7E-9	Crohn's disease
+chr3	12248301	rs13081389	2E-7	Type 2 diabetes
+chr4	101944147	rs13126505	2E-12	Crohn's disease
+chr6	127924620	rs13204742	8E-15	Crohn's disease
+chr8	141622215	rs13263959	8E-7	Hair color
+chr8	117172544	rs13266634	2E-14	Type 2 diabetes
+chr8	117172544	rs13266634	3E-6	Type 2 diabetes
+chr8	117172544	rs13266634	5E-7	Type 2 diabetes
+chr8	117172544	rs13266634	5E-8	Type 2 diabetes
+chr8	117172544	rs13266634	5E-8	Type 2 diabetes
+chr8	117172544	rs13266634	5E-8	Type 2 diabetes
+chr8	117172544	rs13266634	6E-8	Type 2 diabetes
+chr8	117172544	rs13266634	7E-6	Type 2 diabetes
+chr9	109764009	rs1327796	3E-6	Type 2 diabetes
+chr9	12396731	rs13289810	1E-19	Hair color
+chr9	79337213	rs13292136	3E-8	Type 2 diabetes
+chr9	22136490	rs1333051	6E-10	Type 2 diabetes
+chr5	150843825	rs13361189	2E-10	Crohn's disease
+chr2	25269598	rs13428812	9E-10	Crohn's disease
+chr13	80143021	rs1359790	6E-9	Type 2 diabetes
+chr5	40431081	rs1373692	2E-12	Crohn's disease
+chr3	185813873	rs1374910	1E-7	Type 2 diabetes
+chr11	92940662	rs1387153	8E-15	Type 2 diabetes
+chr15	62121815	rs1436953	8E-6	Type 2 diabetes
+chr15	62112183	rs1436955	7E-7	Type 2 diabetes
+chr5	35910427	rs1445898	8E-6	Type 1 diabetes
+chr7	50230076	rs1456893	5E-9	Crohn's disease
+chr7	50264865	rs1456896	1E-8	Crohn's disease
+chr14	68796882	rs1465788	2E-12	Type 1 diabetes
+chr3	185811292	rs1470579	2E-13	Type 2 diabetes
+chr3	185811292	rs1470579	2E-19	Type 2 diabetes
+chr3	185811292	rs1470579	2E-9	Type 2 diabetes
+chr3	185811292	rs1470579	4E-7	Type 2 diabetes
+chr3	185811292	rs1470579	4E-9	Type 2 diabetes
+chr3	185811292	rs1470579	5E-14	Type 2 diabetes
+chr3	185811292	rs1470579	5E-6	Type 2 diabetes
+chr10	44665661	rs1480597	2E-6	Parkinson's disease
+chr4	38334202	rs1487630	1E-11	Crohn's disease
+chr12	40227006	rs1491942	6E-14	Parkinson's disease
+chr12	40227006	rs1491942	6E-15	Parkinson's disease
+chr12	71183321	rs1495377	7E-6	Type 2 diabetes
+chr16	28479196	rs151181	2E-11	Crohn's disease
+chr12	65781114	rs1531343	4E-9	Type 2 diabetes
+chr2	12500615	rs1534422	2E-6	Type 1 diabetes
+chr6	39316274	rs1535500	2E-8	Type 2 diabetes
+chr9	17731923	rs1536076	5E-7	Parkinson's disease
+chr8	125527809	rs1551398	5E-9	Crohn's disease
+chr11	72722053	rs1552224	1E-22	Type 2 diabetes
+chr11	2822986	rs163182	2E-17	Type 2 diabetes
+chr3	186948673	rs16861329	3E-8	Type 2 diabetes
+chr5	33951588	rs16891982	4E-20	Hair color
+chr5	33951588	rs16891982	4E-20	Hair color
+chr16	50820507	rs16948876	2E-10	Leprosy
+chr16	81455768	rs16955379	3E-7	Type 2 diabetes
+chr17	7730374	rs16956936	5E-7	Type 1 diabetes
+chr15	38606989	rs16967103	4E-9	Crohn's disease
+chr12	56018703	rs1701704	9E-10	Type 1 diabetes
+chr3	12236345	rs17036101	2E-7	Type 2 diabetes
+chr1	207478831	rs17045328	7E-6	Type 2 diabetes
+chr5	155967220	rs17053082	4E-7	Type 2 diabetes
+chr5	155967220	rs17053082	4E-7	Type 2 diabetes
+chr10	102831636	rs17115100	7E-8	Parkinson's disease
+chr5	133293192	rs17166496	5E-6	Type 1 diabetes
+chr16	50705671	rs17221417	4E-11	Crohn's disease
+chr5	40401407	rs17234657	2E-12	Crohn's disease
+chr2	27412596	rs1728918	5E-16	Crohn's disease
+chr15	67150258	rs17293632	3E-19	Crohn's disease
+chr6	3433084	rs17309827	7E-9	Crohn's disease
+chr21	15440233	rs1736020	9E-12	Crohn's disease
+chr21	15432901	rs1736135	7E-9	Crohn's disease
+chr4	122408207	rs17388568	3E-6	Type 1 diabetes
+chr1	78157942	rs17391694	3E-9	Crohn's disease
+chr10	69820364	rs17497526	6E-7	Parkinson's disease
+chr10	34998722	rs17582416	2E-9	Crohn's disease
+chr9	8879118	rs17584499	9E-10	Type 2 diabetes
+chr5	173910850	rs17695092	5E-9	Crohn's disease
+chr12	112049014	rs17696736	2E-14	Type 1 diabetes
+chr12	112049014	rs17696736	2E-16	Type 1 diabetes
+chr12	112049014	rs17696736	6E-18	Type 1 diabetes
+chr16	79373021	rs17797882	9E-7	Type 2 diabetes
+chr11	20677383	rs1793004	3E-6	Crohn's disease
+chr6	31574531	rs1799964	4E-11	Crohn's disease
+chr4	6301295	rs1801214	3E-8	Type 2 diabetes
+chr3	12351626	rs1801282	2E-6	Type 2 diabetes
+chr3	12351626	rs1801282	2E-6	Type 2 diabetes
+chr3	12351626	rs1801282	2E-6	Type 2 diabetes
+chr10	69171718	rs1802295	4E-8	Type 2 diabetes
+chr16	89919709	rs1805007	3E-9	Hair color
+chr22	21574352	rs181359	5E-16	Crohn's disease
+chr10	58153390	rs1819658	9E-17	Crohn's disease
+chr17	46710944	rs183211	3E-7	Parkinson's disease
+chr6	90263440	rs1847472	5E-9	Crohn's disease
+chr2	229657682	rs1861612	7E-8	Type 2 diabetes
+chr7	114717488	rs1869839	7E-6	Crohn's disease
+chr18	12809341	rs1893217	1E-14	Crohn's disease
+chr18	12809341	rs1893217	4E-15	Type 1 diabetes
+chr8	126080638	rs1906493	3E-6	Crohn's disease
+chr1	84845509	rs1983853	2E-6	Type 1 diabetes
+chr2	162267541	rs1990760	2E-11	Type 1 diabetes
+chr2	162267541	rs1990760	7E-9	Type 1 diabetes
+chr5	40414965	rs1992660	4E-7	Crohn's disease
+chr12	40034759	rs1994090	3E-8	Parkinson's disease
+chr17	46779275	rs199515	3E-17	Parkinson's disease
+chr17	46751565	rs199533	1E-14	Parkinson's disease
+chr17	46751565	rs199533	1E-6	Parkinson's disease
+chr1	197758512	rs1998598	9E-9	Crohn's disease
+chr19	1124032	rs2024092	8E-22	Crohn's disease
+chr15	89831025	rs2028299	2E-11	Type 2 diabetes
+chr15	89831025	rs2028299	3E-6	Type 2 diabetes
+chr4	46966033	rs2055942	1E-6	Type 2 diabetes
+chr2	102437989	rs2058660	2E-12	Crohn's disease
+chr13	42478744	rs2062305	5E-10	Crohn's disease
+chr3	102484201	rs2063640	3E-6	Type 2 diabetes
+chr16	50729867	rs2066847	2E-15	Crohn's disease
+chr16	50729867	rs2066847	3E-24	Crohn's disease
+chr16	50729867	rs2066847	6E-209	Crohn's disease
+chr16	50722970	rs2076756	1E-21	Crohn's disease
+chr16	50722970	rs2076756	1E-37	Crohn's disease
+chr16	50722970	rs2076756	3E-10	Crohn's disease
+chr16	50722970	rs2076756	4E-69	Crohn's disease
+chr16	50722970	rs2076756	7E-14	Crohn's disease
+chr2	168260515	rs2102808	4E-10	Parkinson's disease
+chr6	159069404	rs212388	2E-11	Crohn's disease
+chr6	159069404	rs212388	3E-14	Crohn's disease
+chr6	166957622	rs2149085	8E-12	Crohn's disease
+chr2	24469940	rs2165738	4E-6	Type 1 diabetes
+chr5	132435113	rs2188962	1E-7	Crohn's disease
+chr5	132435113	rs2188962	2E-18	Crohn's disease
+chr11	2818521	rs2237892	1E-26	Type 2 diabetes
+chr11	2818521	rs2237892	1E-7	Type 2 diabetes
+chr11	2818521	rs2237892	2E-42	Type 2 diabetes
+chr11	2818521	rs2237892	4E-29	Type 2 diabetes
+chr11	2818521	rs2237892	4E-6	Type 2 diabetes
+chr11	2835964	rs2237895	1E-9	Type 2 diabetes
+chr11	2837316	rs2237897	1E-16	Type 2 diabetes
+chr10	62710915	rs224136	1E-10	Crohn's disease
+chr2	233274722	rs2241880	1E-12	Crohn's disease
+chr2	233274722	rs2241880	1E-13	Crohn's disease
+chr2	233274722	rs2241880	3E-6	Crohn's disease
+chr4	67581531	rs2242330	2E-6	Parkinson's disease
+chr1	63643100	rs2269241	4E-7	Type 1 diabetes
+chr9	4985879	rs2274471	5E-6	Crohn's disease
+chr1	160882256	rs2274910	1E-9	Crohn's disease
+chr6	154405854	rs2275336	9E-7	Parkinson's disease
+chr6	146597814	rs2275606	4E-14	Leprosy
+chr20	1629905	rs2281808	1E-11	Type 1 diabetes
+chr21	33404389	rs2284553	2E-16	Crohn's disease
+chr17	39909987	rs2290400	6E-13	Type 1 diabetes
+chr1	200857641	rs2292096	1E-8	Epilepsy
+chr12	56088396	rs2292239	2E-20	Type 1 diabetes
+chr12	56088396	rs2292239	2E-25	Type 1 diabetes
+chr12	56088396	rs2292239	3E-16	Type 1 diabetes
+chr22	37195278	rs229541	2E-7	Type 1 diabetes
+chr22	37195278	rs229541	2E-8	Type 1 diabetes
+chr6	167024500	rs2301436	1E-12	Crohn's disease
+chr6	167024500	rs2301436	6E-8	Crohn's disease
+chr19	10364976	rs2304256	4E-9	Type 1 diabetes
+chr11	2670241	rs231362	3E-13	Type 2 diabetes
+chr9	22132077	rs2383208	2E-29	Type 2 diabetes
+chr9	22132077	rs2383208	3E-17	Type 2 diabetes
+chr9	22132077	rs2383208	3E-6	Type 2 diabetes
+chr6	32420032	rs2395163	3E-11	Parkinson's disease
+chr22	39263768	rs2413583	1E-26	Crohn's disease
+chr2	60357684	rs243021	3E-15	Type 2 diabetes
+chr1	113834946	rs2476601	1E-7	Type 1 diabetes
+chr1	113834946	rs2476601	1E-8	Crohn's disease
+chr1	113834946	rs2476601	2E-80	Type 1 diabetes
+chr1	113834946	rs2476601	4E-9	Crohn's disease
+chr1	113834946	rs2476601	9E-85	Type 1 diabetes
+chr18	12779948	rs2542151	1E-14	Type 1 diabetes
+chr18	12779948	rs2542151	2E-7	Crohn's disease
+chr18	12779948	rs2542151	3E-8	Crohn's disease
+chr18	12779948	rs2542151	5E-17	Crohn's disease
+chr18	12779948	rs2542151	9E-8	Type 1 diabetes
+chr5	96908845	rs2549794	1E-10	Crohn's disease
+chr6	32700133	rs2647044	1E-16	Type 1 diabetes
+chr23	154717327	rs2664170	8E-9	Type 1 diabetes
+chr11	11206827	rs2722769	2E-6	Type 2 diabetes
+chr4	89757390	rs2736990	2E-16	Parkinson's disease
+chr4	89757390	rs2736990	7E-8	Parkinson's disease
+chr1	7819003	rs2797685	7E-9	Crohn's disease
+chr19	48711017	rs281379	7E-12	Crohn's disease
+chr21	15542586	rs2823357	6E-7	Parkinson's disease
+chr21	32012873	rs2833610	4E-6	Type 2 diabetes
+chr21	33424579	rs2834215	3E-7	Crohn's disease
+chr21	38919816	rs2836754	5E-7	Crohn's disease
+chr21	44195140	rs2838519	2E-14	Crohn's disease
+chr21	41866243	rs2839398	5E-6	Parkinson's disease
+chr17	39884510	rs2872507	2E-9	Crohn's disease
+chr17	39884510	rs2872507	5E-9	Crohn's disease
+chr16	11144926	rs2903692	7E-11	Type 1 diabetes
+chr20	33363039	rs291671	2E-15	Hair color
+chr17	45637484	rs2942168	1E-28	Parkinson's disease
+chr17	27516617	rs2945412	9E-17	Crohn's disease
+chr1	206766559	rs3024505	2E-14	Crohn's disease
+chr1	206766559	rs3024505	2E-9	Type 1 diabetes
+chr2	203874196	rs3087243	1E-15	Type 1 diabetes
+chr2	203874196	rs3087243	8E-11	Type 1 diabetes
+chr17	34266646	rs3091315	2E-13	Crohn's disease
+chr17	34266955	rs3091316	4E-8	Crohn's disease
+chr5	132067045	rs3091338	4E-8	Crohn's disease
+chr6	31174468	rs3094188	7E-7	Crohn's disease
+chr17	7037074	rs312457	8E-13	Type 2 diabetes
+chr6	32441753	rs3129882	2E-10	Parkinson's disease
+chr1	155260340	rs3180018	2E-13	Crohn's disease
+chr12	111446804	rs3184504	3E-27	Type 1 diabetes
+chr3	49684099	rs3197999	1E-12	Crohn's disease
+chr3	49684099	rs3197999	6E-17	Crohn's disease
+chr20	57454548	rs328506	2E-6	Type 2 diabetes
+chr1	156060246	rs34372695	4E-12	Parkinson's disease
+chr12	40340400	rs34637584	2E-28	Parkinson's disease
+chr12	40363526	rs34778348	3E-21	Parkinson's disease
+chr4	89716450	rs356219	2E-47	Parkinson's disease
+chr4	89716450	rs356219	6E-65	Parkinson's disease
+chr4	89720189	rs356220	2E-19	Parkinson's disease
+chr4	89720189	rs356220	3E-11	Parkinson's disease
+chr4	89720189	rs356220	3E-8	Parkinson's disease
+chr4	89720189	rs356220	8E-35	Parkinson's disease
+chr4	89720189	rs356220	9E-16	Parkinson's disease
+chr3	55279372	rs358806	3E-6	Type 2 diabetes
+chr5	173852839	rs359457	3E-12	Crohn's disease
+chr11	2148544	rs3741208	2E-7	Type 1 diabetes
+chr11	69072692	rs3750965	3E-7	Hair color
+chr6	90247744	rs3757247	1E-6	Type 1 diabetes
+chr1	67131436	rs3762318	3E-11	Leprosy
+chr12	9681032	rs3764021	5E-8	Type 1 diabetes
+chr13	43883789	rs3764147	1E-10	Crohn's disease
+chr13	43883789	rs3764147	2E-13	Crohn's disease
+chr13	43883789	rs3764147	2E-21	Crohn's disease
+chr13	43883789	rs3764147	4E-54	Leprosy
+chr3	142712158	rs3773506	9E-6	Type 2 diabetes
+chr19	33402102	rs3786897	1E-8	Type 2 diabetes
+chr2	233275771	rs3792109	5E-9	Crohn's disease
+chr2	233275771	rs3792109	7E-41	Crohn's disease
+chr4	163611649	rs3792615	9E-6	Type 2 diabetes
+chr8	117172786	rs3802177	1E-8	Type 2 diabetes
+chr8	117172786	rs3802177	4E-8	Type 2 diabetes
+chr9	114790605	rs3810936	1E-15	Crohn's disease
+chr15	78943104	rs3825932	3E-15	Type 1 diabetes
+chr15	78943104	rs3825932	8E-8	Type 1 diabetes
+chr2	233271764	rs3828309	2E-32	Crohn's disease
+chr1	119908567	rs3897478	2E-11	Crohn's disease
+chr17	2312964	rs391300	3E-9	Type 2 diabetes
+chr6	32717773	rs3916765	1E-6	Type 2 diabetes
+chr2	164645339	rs3923113	1E-8	Type 2 diabetes
+chr17	45641777	rs393152	2E-16	Parkinson's disease
+chr15	81334384	rs3935740	2E-7	Parkinson's disease
+chr8	89811459	rs40457	1E-12	Leprosy
+chr9	136372044	rs4077515	1E-36	Crohn's disease
+chr9	136372044	rs4077515	4E-6	Crohn's disease
+chr11	69781755	rs4084127	3E-6	Type 1 diabetes
+chr18	43098270	rs4130047	2E-7	Parkinson's disease
+chr17	46781778	rs415430	7E-7	Parkinson's disease
+chr6	166993145	rs415890	3E-12	Crohn's disease
+chr16	11270222	rs416603	3E-6	Type 1 diabetes
+chr8	89766285	rs42490	1E-16	Leprosy
+chr19	46705224	rs425105	3E-11	Type 1 diabetes
+chr9	114804160	rs4263839	3E-10	Crohn's disease
+chr3	185793899	rs4402960	1E-6	Type 2 diabetes
+chr3	185793899	rs4402960	2E-9	Type 2 diabetes
+chr3	185793899	rs4402960	3E-9	Type 2 diabetes
+chr3	185793899	rs4402960	8E-8	Type 2 diabetes
+chr3	185793899	rs4402960	9E-16	Type 2 diabetes
+chr3	185793899	rs4402960	9E-16	Type 2 diabetes
+chr10	99524480	rs4409764	2E-20	Crohn's disease
+chr17	37738049	rs4430796	2E-11	Type 2 diabetes
+chr17	37738049	rs4430796	2E-6	Type 2 diabetes
+chr17	37738049	rs4430796	4E-6	Type 2 diabetes
+chr5	77129124	rs4457053	3E-12	Type 2 diabetes
+chr4	122211337	rs4505848	5E-13	Type 1 diabetes
+chr10	112996282	rs4506565	5E-12	Type 2 diabetes
+chr8	133184606	rs4527850	2E-6	Type 2 diabetes
+chr4	15736314	rs4538475	3E-9	Parkinson's disease
+chr3	64726228	rs4607103	1E-8	Type 2 diabetes
+chr5	40392626	rs4613763	7E-27	Crohn's disease
+chr1	160860478	rs4656940	6E-7	Crohn's disease
+chr4	15735725	rs4698412	2E-6	Parkinson's disease
+chr4	15735725	rs4698412	3E-7	Parkinson's disease
+chr6	20657333	rs4712523	7E-20	Type 2 diabetes
+chr6	20657634	rs4712524	3E-10	Type 2 diabetes
+chr19	39090097	rs472265	9E-6	Type 2 diabetes
+chr12	71241014	rs4760790	4E-6	Type 2 diabetes
+chr12	9757568	rs4763879	2E-11	Type 1 diabetes
+chr2	25078886	rs478222	4E-9	Type 1 diabetes
+chr16	28528527	rs4788084	3E-13	Type 1 diabetes
+chr19	46346549	rs4802307	2E-10	Crohn's disease
+chr20	63718234	rs4809330	3E-15	Crohn's disease
+chr20	44360627	rs4812829	3E-10	Type 2 diabetes
+chr22	41035338	rs4820425	3E-8	Crohn's disease
+chr9	119297431	rs4837628	1E-6	Parkinson's disease
+chr8	125525328	rs4871611	2E-12	Crohn's disease
+chr14	98032614	rs4900384	4E-9	Type 1 diabetes
+chr14	68743482	rs4902642	2E-10	Crohn's disease
+chr11	126426694	rs4935969	4E-7	Hair color
+chr7	50959497	rs4948088	4E-8	Type 1 diabetes
+chr12	106556209	rs4964469	2E-7	Parkinson's disease
+chr10	92705802	rs5015480	1E-15	Type 2 diabetes
+chr10	92705802	rs5015480	2E-9	Type 2 diabetes
+chr10	92705802	rs5015480	5E-6	Type 2 diabetes
+chr10	92705802	rs5015480	7E-8	Type 2 diabetes
+chr10	92705802	rs5015480	9E-6	Type 2 diabetes
+chr19	48705608	rs504963	2E-8	Crohn's disease
+chr8	41661944	rs515071	1E-8	Type 2 diabetes
+chr19	48702915	rs516246	1E-15	Crohn's disease
+chr11	17387083	rs5215	4E-7	Type 2 diabetes
+chr11	17387083	rs5215	5E-11	Type 2 diabetes
+chr11	17388025	rs5219	1E-7	Type 2 diabetes
+chr11	17388025	rs5219	1E-9	Type 2 diabetes
+chr11	17388025	rs5219	5E-7	Type 2 diabetes
+chr11	17388025	rs5219	7E-11	Type 2 diabetes
+chr11	64362250	rs538147	7E-6	Leprosy
+chr13	75752146	rs539514	6E-11	Type 1 diabetes
+chr7	28189423	rs550448	5E-7	Type 1 diabetes
+chr9	22029548	rs564398	1E-6	Type 2 diabetes
+chr16	50722863	rs5743289	1E-6	Crohn's disease
+chr16	50722863	rs5743289	6E-17	Crohn's disease
+chr22	30185733	rs5753037	3E-16	Type 1 diabetes
+chr23	153634467	rs5945326	2E-12	Type 2 diabetes
+chr23	153634467	rs5945326	3E-10	Type 2 diabetes
+chr23	153634467	rs5945326	7E-16	Type 2 diabetes
+chr20	44318326	rs6017317	1E-11	Type 2 diabetes
+chr10	6052734	rs61839660	5E-9	Type 1 diabetes
+chr17	796780	rs623323	4E-6	Type 2 diabetes
+chr1	228744368	rs6426514	2E-6	Type 2 diabetes
+chr6	139952510	rs642858	2E-6	Type 2 diabetes
+chr2	134782397	rs6430538	2E-7	Parkinson's disease
+chr7	127524904	rs6467136	5E-11	Type 2 diabetes
+chr9	114783386	rs6478106	5E-46	Crohn's disease
+chr9	114796423	rs6478108	3E-21	Leprosy
+chr9	10430602	rs649891	6E-6	Type 2 diabetes
+chr4	89859751	rs6532194	5E-11	Parkinson's disease
+chr4	89876150	rs6532197	1E-7	Parkinson's disease
+chr4	122277280	rs6534347	2E-6	Type 1 diabetes
+chr2	62486398	rs6545946	7E-9	Crohn's disease
+chr2	28423934	rs6547853	8E-7	Type 1 diabetes
+chr5	159360377	rs6556412	5E-14	Crohn's disease
+chr6	105987150	rs6568421	4E-8	Crohn's disease
+chr10	92588073	rs6583826	7E-6	Type 2 diabetes
+chr5	132406536	rs6596075	3E-6	Crohn's disease
+chr4	945299	rs6599388	4E-12	Parkinson's disease
+chr4	945325	rs6599389	4E-8	Parkinson's disease
+chr10	3820350	rs6601764	9E-6	Crohn's disease
+chr8	128554935	rs6651252	1E-16	Crohn's disease
+chr8	128554935	rs6651252	4E-18	Crohn's disease
+chr1	113761186	rs6679677	1E-40	Type 1 diabetes
+chr1	113761186	rs6679677	2E-15	Crohn's disease
+chr1	113761186	rs6679677	5E-26	Type 1 diabetes
+chr1	113761186	rs6679677	8E-24	Type 1 diabetes
+chr2	134834811	rs6710823	7E-9	Parkinson's disease
+chr2	105221141	rs6712932	6E-6	Type 2 diabetes
+chr2	230232414	rs6716753	1E-16	Crohn's disease
+chr2	134722410	rs6723108	7E-8	Type 2 diabetes
+chr2	198032171	rs6738825	4E-9	Crohn's disease
+chr3	185812502	rs6769511	1E-9	Type 2 diabetes
+chr3	23156993	rs6780569	4E-7	Type 2 diabetes
+chr4	76277833	rs6812193	4E-7	Parkinson's disease
+chr4	76277833	rs6812193	8E-10	Parkinson's disease
+chr4	1316113	rs6815464	2E-20	Type 2 diabetes
+chr4	1316113	rs6815464	2E-7	Type 2 diabetes
+chr4	48361966	rs6837335	2E-8	Crohn's disease
+chr4	38323415	rs6856616	4E-14	Crohn's disease
+chr5	159395637	rs6887695	9E-6	Crohn's disease
+chr5	35874473	rs6897932	8E-6	Type 1 diabetes
+chr6	20728500	rs6908425	1E-8	Crohn's disease
+chr6	20728500	rs6908425	9E-10	Crohn's disease
+chr6	20703721	rs6931514	1E-11	Type 2 diabetes
+chr11	64329761	rs694739	6E-10	Crohn's disease
+chr8	89863690	rs7015630	1E-8	Crohn's disease
+chr9	22137686	rs7018475	3E-8	Type 2 diabetes
+chr9	4291747	rs7020673	5E-12	Type 1 diabetes
+chr9	22129580	rs7020996	2E-7	Type 2 diabetes
+chr9	4287466	rs7041847	2E-14	Type 2 diabetes
+chr10	62655424	rs7076156	7E-9	Crohn's disease
+chr10	15519544	rs7077361	5E-6	Parkinson's disease
+chr11	129603795	rs7107217	3E-7	Type 2 diabetes
+chr11	2191936	rs7111341	4E-48	Type 1 diabetes
+chr11	96375264	rs7118648	2E-7	Parkinson's disease
+chr15	77485290	rs7119	5E-7	Type 2 diabetes
+chr22	30196498	rs713875	7E-12	Crohn's disease
+chr15	62104190	rs7172432	1E-6	Type 2 diabetes
+chr15	62104190	rs7172432	9E-14	Type 2 diabetes
+chr15	77454848	rs7178572	1E-8	Type 2 diabetes
+chr15	77454848	rs7178572	7E-11	Type 2 diabetes
+chr16	75213347	rs7202877	3E-15	Type 1 diabetes
+chr17	40614034	rs7221109	1E-9	Type 1 diabetes
+chr11	72959855	rs72981516	4E-7	Crohn's disease
+chr12	120965129	rs7305618	2E-8	Type 2 diabetes
+chr14	100676553	rs730570	8E-6	Type 2 diabetes
+chr13	40983974	rs7329174	8E-9	Crohn's disease
+chr19	33266156	rs736289	9E-9	Crohn's disease
+chr15	38530704	rs7403531	4E-9	Type 2 diabetes
+chr19	1124836	rs740495	8E-12	Crohn's disease
+chr2	230252159	rs7423615	3E-13	Crohn's disease
+chr17	42362183	rs744166	7E-12	Crohn's disease
+chr6	33796256	rs751728	1E-8	Crohn's disease
+chr1	172884320	rs7517810	2E-15	Crohn's disease
+chr1	67215986	rs7517847	3E-12	Crohn's disease
+chr1	94604485	rs7542900	6E-6	Type 2 diabetes
+chr1	24946709	rs7551188	9E-6	Crohn's disease
+chr1	200908434	rs7554511	2E-7	Crohn's disease
+chr2	150781422	rs7560163	7E-9	Type 2 diabetes
+chr2	226155937	rs7578326	5E-20	Type 2 diabetes
+chr2	43505684	rs7578597	1E-9	Type 2 diabetes
+chr2	160314943	rs7593730	4E-8	Type 2 diabetes
+chr3	28664273	rs7617877	3E-6	Parkinson's disease
+chr21	44195678	rs762421	1E-9	Crohn's disease
+chr3	179943530	rs7630877	7E-6	Type 2 diabetes
+chr18	69864406	rs763361	1E-8	Type 1 diabetes
+chr7	100892456	rs7636	5E-6	Type 2 diabetes
+chr1	67182913	rs76418789	2E-10	Crohn's disease
+chr4	1260747	rs7656416	1E-8	Type 2 diabetes
+chr4	121744359	rs7659604	9E-6	Type 2 diabetes
+chr5	9332169	rs7702187	8E-6	Parkinson's disease
+chr5	73255307	rs7702331	6E-10	Crohn's disease
+chr5	73255307	rs7702331	6E-12	Crohn's disease
+chr5	102611094	rs7705924	2E-8	Crohn's disease
+chr5	150890858	rs7714584	8E-19	Crohn's disease
+chr6	105987394	rs7746082	2E-10	Crohn's disease
+chr6	20661019	rs7754840	2E-13	Type 2 diabetes
+chr6	20661019	rs7754840	4E-11	Type 2 diabetes
+chr6	20661019	rs7754840	4E-11	Type 2 diabetes
+chr6	20661019	rs7754840	7E-10	Type 2 diabetes
+chr6	20679478	rs7756992	8E-9	Type 2 diabetes
+chr6	32713151	rs7765379	9E-59	Crohn's disease
+chr6	20686342	rs7766070	6E-11	Type 2 diabetes
+chr6	20686342	rs7766070	7E-10	Type 2 diabetes
+chr2	27519736	rs780093	5E-11	Crohn's disease
+chr7	26852046	rs7804356	5E-9	Type 1 diabetes
+chr7	148560956	rs7807268	4E-6	Crohn's disease
+chr10	112994329	rs7901695	1E-48	Type 2 diabetes
+chr10	112998590	rs7903146	1E-35	Type 2 diabetes
+chr10	112998590	rs7903146	1E-8	Type 2 diabetes
+chr10	112998590	rs7903146	2E-10	Type 2 diabetes
+chr10	112998590	rs7903146	2E-15	Type 2 diabetes
+chr10	112998590	rs7903146	2E-15	Type 2 diabetes
+chr10	112998590	rs7903146	2E-31	Type 2 diabetes
+chr10	112998590	rs7903146	2E-34	Type 2 diabetes
+chr10	112998590	rs7903146	2E-38	Type 2 diabetes
+chr10	112998590	rs7903146	2E-40	Type 2 diabetes
+chr10	112998590	rs7903146	2E-51	Type 2 diabetes
+chr10	112998590	rs7903146	3E-19	Type 2 diabetes
+chr10	112998590	rs7903146	3E-23	Type 2 diabetes
+chr10	112998590	rs7903146	3E-35	Type 2 diabetes
+chr10	112998590	rs7903146	4E-21	Type 2 diabetes
+chr10	112998590	rs7903146	5E-8	Type 2 diabetes
+chr10	112998590	rs7903146	6E-16	Type 2 diabetes
+chr10	112998590	rs7903146	6E-22	Type 2 diabetes
+chr10	112998590	rs7903146	8E-12	Type 2 diabetes
+chr10	112998590	rs7903146	9E-30	Type 2 diabetes
+chr10	112998590	rs7903146	9E-75	Type 2 diabetes
+chr7	128222749	rs791595	3E-13	Type 2 diabetes
+chr11	76590272	rs7927894	1E-9	Crohn's disease
+chr11	76590331	rs7927997	6E-13	Crohn's disease
+chr12	121022883	rs7957197	2E-8	Type 2 diabetes
+chr12	71269322	rs7961581	1E-9	Type 2 diabetes
+chr14	88006251	rs8005161	4E-18	Crohn's disease
+chr15	38546063	rs8035957	4E-6	Type 1 diabetes
+chr15	90978107	rs8042680	2E-10	Type 2 diabetes
+chr16	53782363	rs8050136	1E-12	Type 2 diabetes
+chr16	53782363	rs8050136	2E-17	Type 2 diabetes
+chr16	53782363	rs8050136	6E-6	Type 2 diabetes
+chr16	53782363	rs8050136	7E-14	Type 2 diabetes
+chr16	53782363	rs8050136	7E-6	Type 2 diabetes
+chr17	46003698	rs8070723	7E-12	Parkinson's disease
+chr18	7068463	rs8090011	8E-9	Type 2 diabetes
+chr11	2810311	rs8181588	5E-9	Type 2 diabetes
+chr1	205744250	rs823128	7E-8	Parkinson's disease
+chr1	205795512	rs823156	1E-7	Parkinson's disease
+chr3	64062621	rs831571	8E-11	Type 2 diabetes
+chr7	28156603	rs849134	3E-9	Type 2 diabetes
+chr7	28140937	rs864745	4E-9	Crohn's disease
+chr7	28140937	rs864745	5E-14	Type 2 diabetes
+chr8	94948283	rs896854	1E-9	Type 2 diabetes
+chr6	170063801	rs924043	8E-9	Type 1 diabetes
+chr6	29755384	rs9258260	2E-10	Crohn's disease
+chr6	31306603	rs9264942	5E-28	Crohn's disease
+chr6	32237333	rs9267911	3E-7	Crohn's disease
+chr6	32440750	rs9268645	1E-100	Type 1 diabetes
+chr6	32619077	rs9271366	5E-12	Crohn's disease
+chr6	32636595	rs9272346	5E-134	Type 1 diabetes
+chr6	32636595	rs9272346	6E-129	Type 1 diabetes
+chr1	172893094	rs9286879	2E-9	Crohn's disease
+chr1	172893094	rs9286879	6E-22	Crohn's disease
+chr5	40437846	rs9292777	2E-11	Crohn's disease
+chr5	40437846	rs9292777	3E-18	Crohn's disease
+chr6	20652486	rs9295474	9E-6	Type 2 diabetes
+chr11	41893816	rs9300039	6E-8	Type 2 diabetes
+chr16	50685192	rs9302752	4E-40	Leprosy
+chr6	31607499	rs9348876	3E-6	Crohn's disease
+chr6	126377573	rs9388489	4E-13	Type 1 diabetes
+chr14	100839708	rs941576	1E-10	Type 1 diabetes
+chr6	20717024	rs9465871	3E-7	Type 2 diabetes
+chr6	32690533	rs9469220	2E-6	Crohn's disease
+chr6	38139068	rs9470794	2E-10	Type 2 diabetes
+chr1	205783537	rs947211	2E-12	Parkinson's disease
+chr6	43844025	rs9472138	4E-6	Type 2 diabetes
+chr10	6348488	rs947474	4E-9	Type 1 diabetes
+chr6	127134977	rs9491697	4E-10	Crohn's disease
+chr13	23290518	rs9552911	2E-8	Type 2 diabetes
+chr2	100208905	rs9653442	5E-6	Type 1 diabetes
+chr7	130782095	rs972283	2E-10	Type 2 diabetes
+chr13	77807011	rs975739	2E-14	Hair color
+chr3	49664550	rs9858542	4E-8	Crohn's disease
+chr3	49664550	rs9858542	5E-8	Crohn's disease
+chr17	42355962	rs9891119	2E-15	Crohn's disease
+chr2	168286525	rs9917256	3E-6	Parkinson's disease
+chr16	53786615	rs9939609	1E-20	Type 2 diabetes
+chr16	53786615	rs9939609	2E-7	Type 2 diabetes
+chr21	42416281	rs9976767	2E-8	Type 1 diabetes
